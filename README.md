@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Trovo;
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Java & Kotlin
+- 🌱 I’m currently learning Java
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/pedro-trovo-4189a7215/
 
 <!---
