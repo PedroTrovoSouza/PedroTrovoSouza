@@ -1,17 +1,50 @@
-- 👋 Hi, I’m Pedro Trovo;
-- 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Linkedin https://www.linkedin.com/in/pedro-trovo-4189a7215/
+<!-- PROFILE README -->
 
-<!---
-is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Pedro Trovo
+- 👀 I’m interested in learning new things  
+- 🌱 I’m currently learning Java, Spring Boot, and Docker  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-trovo-4189a7215/)
+
+---
+
+### 🧰 Technologies I'm working with:
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" width="48"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="48"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="48"/>
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-rabbitmq-an-open-source-message-broker-software-logo-shadow-tal-revivo.png" alt="RabbitMQ" width="48"/>
+  </a>
+  <a href="https://locust.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Locust" width="48"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroTrovoSouza&show_icons=true&theme=radical" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTrovoSouza&layout=compact&theme=radical" />
+  </a>
+</p>
+
+---
+
+<!--
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroTrovoSouza&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTrovoSouza&layout=compact&theme=radical" />
-</a>
-<img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" width="40"/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+-->
