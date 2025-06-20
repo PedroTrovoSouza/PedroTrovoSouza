@@ -7,30 +7,6 @@
 
 ---
 
-### 🧰 Technologies I'm working with:
-<p align="center">
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" width="48"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="48"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="48"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-rabbitmq-an-open-source-message-broker-software-logo-shadow-tal-revivo.png" alt="RabbitMQ" width="48"/>
-  </a>
-  <a href="https://locust.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Locust" width="48"/>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,6 +18,21 @@
   </a>
 </p>
 
+---
+
+### 🧰 Technologies I'm working with:
+<p align="center">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="48"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="48"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="48"/>
+  </a>
+</p>
+    
 ---
 
 <!--
