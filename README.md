@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/convoychat%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTrovoSouza&layout=compact&theme=radical" />
 </a>
-
+<img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" width="40"/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
